@@ -8,3 +8,5 @@ Circumference!
 
 *Which of King Arthur's Knights of the Round Table is the most secretive?*    
 Surreptitious!
+
+A script for automatically sorting the words alphabetically has been included. Call `python sort.py`. 
