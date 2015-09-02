@@ -21,6 +21,7 @@ service
 shirley (it's a stretch)
 sirloin
 sorting algorithm (it's a stretch)
+sorry
 sriracha
 surly
 surmount
